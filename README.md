@@ -1,10 +1,5 @@
 # assignment-fe
 
-17:16
-
-Sign in · GitLab
-https://gitlab.abinsula.com
-
 Obiettivo: Creare un'applicazione web a pagina singola che consenta agli utenti di gestire una lista di prodotti utilizzando le operazioni CRUD (Create, Read, Update, Delete).
 
 Requisiti tecnici:
